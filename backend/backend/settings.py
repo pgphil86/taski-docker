@@ -15,7 +15,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '').split(',')
 
-ALLOWED_HOSTS = ['158.160.67.222', '127.0.0.1', 'localhost', 'tasks.viewdns.net']
+ALLOWED_HOSTS = ['158.160.67.222', '127.0.0.1:8000', 'localhost', 'tasks.viewdns.net']
 
 # Application definition
 
